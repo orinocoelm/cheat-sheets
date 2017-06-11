@@ -55,7 +55,7 @@ A JS-based build system for automating dev tasks using gulp plugins.
 
 **3.** If jQuery required, `npm install jquery --save`
 
-**Note:** the save option adds dependencies to the *package.json* file so that if you delete or do not have a node-modules folder, you can recreate the folder and their contents by running: 'npm install'.
+**Note:** the save option adds dependencies to the *package.json* file so that if you delete or do not have a node-modules folder, you can recreate the folder and their contents by running: `npm install`.
 
 **4.** Install gulp. `npm install gulp --save-dev`
 
